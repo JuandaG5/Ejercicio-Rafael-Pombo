@@ -1,0 +1,27 @@
+
+body{
+    background-color: #ff7b009a ;
+}
+.rafael{
+    width: 800px;
+    background-color: antiquewhite;
+    color: #000;
+    margin-left: 550px;
+    padding: 30px;
+    border: 4px dashed cyan;
+}
+
+.rafael h1{
+    text-align: center;
+}
+
+.rafael img{
+    width: 200px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 5px ;
+}
+
+.texto{
+    margin-top: 2px;
+}
